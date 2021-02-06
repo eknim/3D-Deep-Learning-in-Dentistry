@@ -16,3 +16,7 @@
 ### Crowning Achievement: Using Adversarial Networks to Create Customized Dental Caps (2018) [[NVIDIA blog]](https://blogs.nvidia.com/blog/2018/04/18/ai-for-dentistry/)
 <p align="center"><img width="80%" src="nvidia-glidewell-dental-cap.jpg"/></p>
 <br>
+
+### Learning Beyond Human Expertise with Generative Models for Dental Restorations (2018) [[Paper]](https://arxiv.org/pdf/1804.00064)
+<p align="center"><img width="80%" src="dental-crown-design.png"/></p>
+<br>
