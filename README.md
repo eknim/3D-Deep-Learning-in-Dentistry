@@ -7,3 +7,7 @@
 <p align="center">Illustration of MeshSNet<img width="80%" src="Illustration-of-our-MeshSNet.png" /></p>
 <p align="center">Segmentations produced by five different methods<img width="80%" src="Segmentations-produced-by-five-different-methods.png" /></p>
 <br>
+
+<b>Deep Learning Approach to Semantic Segmentation in 3D Point Cloud Intra-oral Scans of Teeth (PMLR 2019)</b> [[Paper]](http://proceedings.mlr.press/v102/ghazvinian-zanjani19a/ghazvinian-zanjani19a.pdf)
+<p align="center"><img width="80%" src="semantic-segmentation.png" /></p>
+<br>
