@@ -1,6 +1,6 @@
 # 3D-Deep-Learning-in-Dentistry 
 
-## CNN
+## CNN, Sementic Sementation
 <b>MeshSNet: Deep Multi-scale Mesh Feature Learning for End-to-End Tooth Labeling on 3D Dental Surfaces (MICCAI 2019)</b> [[Paper]](https://www.researchgate.net/profile/Mingxia-Liu/publication/336465259_MeshSNet_Deep_Multi-scale_Mesh_Feature_Learning_for_End-to-End_Tooth_Labeling_on_3D_Dental_Surfaces/links/5e28a0aa299bf1521675ac8c/MeshSNet-Deep-Multi-scale-Mesh-Feature-Learning-for-End-to-End-Tooth-Labeling-on-3D-Dental-Surfaces.pdf)
 <br>
 
@@ -12,7 +12,7 @@
 <p align="center"><img width="80%" src="semantic-segmentation.png" /></p>
 <br>
 
-## GAN
+## GAN, Restoration
 ### Crowning Achievement: Using Adversarial Networks to Create Customized Dental Caps (2018) [[NVIDIA blog]](https://blogs.nvidia.com/blog/2018/04/18/ai-for-dentistry/)
 <p align="center"><img width="80%" src="nvidia-glidewell-dental-cap.jpg"/></p>
 <br>
