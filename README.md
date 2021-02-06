@@ -11,3 +11,8 @@
 <b>Deep Learning Approach to Semantic Segmentation in 3D Point Cloud Intra-oral Scans of Teeth (PMLR 2019)</b> [[Paper]](http://proceedings.mlr.press/v102/ghazvinian-zanjani19a/ghazvinian-zanjani19a.pdf)
 <p align="center"><img width="80%" src="semantic-segmentation.png" /></p>
 <br>
+
+## GAN
+### Crowning Achievement: Using Adversarial Networks to Create Customized Dental Caps (2018) [[NVIDIA blog]](https://blogs.nvidia.com/blog/2018/04/18/ai-for-dentistry/)
+<p align="center"><img width="80%" src="nvidia-glidewell-dental-cap.jpg"/></p>
+<br>
